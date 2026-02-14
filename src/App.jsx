@@ -4,7 +4,7 @@
 import './App.css'
 import loveYouGIF from './assets/i-love-you-love-you.gif';
 import GirlfriendGallery from './girlFriendGallery.jsx';
-
+import RelationshipTimer from './RelationshipTimer.jsx';
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -42,7 +42,7 @@ function App() {
 
       </div>
 
-
+        <RelationshipTimer />
 
 
       {/* landing title */}
